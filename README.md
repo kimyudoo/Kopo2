@@ -1,6 +1,6 @@
-# Kopo2
+﻿# Kopo2
 Park
 Kim
 
-ganadaramabasa
+박치우 chuPark
 남지현
